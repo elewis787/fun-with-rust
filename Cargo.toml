@@ -1,0 +1,6 @@
+[package]
+name = "fun-with-rust"
+version = "0.1.0"
+authors = ["Ethan Lewis <elewis@kochava.com>"]
+
+[dependencies]
