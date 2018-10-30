@@ -1,6 +1,7 @@
 [package]
-name = "fun-with-rust"
+name = "fun_with_rust"
 version = "0.1.0"
 authors = ["Ethan Lewis <elewis@kochava.com>"]
 
 [dependencies]
+ rand = "0.3.0"
